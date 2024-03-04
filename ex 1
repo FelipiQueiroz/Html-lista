@@ -1,0 +1,11 @@
+<p>Estudando as tags de texto</p>
+<p>Este é um texto em <strong>negrito</strong> e <em>itálico</em>.</p>
+<p>Ele também pode ter <sub>subscrito</sub> e <sup>sobrescrito</sup> textos.</p>
+<p>Texto <strong>forte</strong> e <em>ênfase</em> são importantes.</p>
+<blockquote>Isso é uma citação de bloco. Ela pode ser usada para enfatizar um trecho importante.</blockquote>
+<q>Uma "citação curta" é usada para citar algo relevante.</q>
+<abbr title="Organização das Nações Unidas">ONU</abbr> é uma sigla importante.
+<p>Segundo o dicionário, "<q cite="https://exemplo.com/dicionario">vida</q>" é a condição que distingue os seres orgânicos.</p>
+<p><abbr title="Hypertext Markup Language">HTML</abbr> é a linguagem usada para estruturar páginas web.</p>
+<p>Entre em contato pelo email: <a href="mailto:contato@exemplo.com">contato@exemplo.com</a></p>
+<p>Cuidado com o passo em falso! E lembre-se de olhar antes de cruzar a rua.</p>
